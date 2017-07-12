@@ -1,3 +1,3 @@
 # git-usage
 keep learning git
-make somechange from somewhere
+make some changes from somewhere
